@@ -1,1 +1,1 @@
-# vanilla-js-api-user-posts
+A practice project using vanilla JavaScript to fetch and display user data and posts from an external API. This simple web app includes a user list, detailed user information, and a search function to filter posts by user ID. It's a great example of working with the fetch API and DOM manipulation to create a responsive and interactive interface. Perfect for honing your JavaScript skills!
